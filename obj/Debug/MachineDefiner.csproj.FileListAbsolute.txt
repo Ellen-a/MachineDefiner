@@ -1,0 +1,36 @@
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Debug\MachineDefiner.exe.config
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Debug\MachineDefiner.exe
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Debug\MachineDefiner.pdb
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\ET\ET_Machines.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\ET\ET_Properties.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MainWindow.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\App.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\ET\ET_Machines.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\ET\ET_Properties.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MainWindow.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\App.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner_MarkupCompile.cache
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.g.resources
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.Properties.Resources.resources
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.csproj.GenerateResource.Cache
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.exe
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.pdb
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Debug\MachineDefiner.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\bin\Debug\MachineDefiner.exe.config
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.exe
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.pdb
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\bin\Debug\MachineDefiner.exe
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\bin\Debug\MachineDefiner.pdb
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\ET\ET_Machines.baml
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\ET\ET_Properties.baml
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MainWindow.baml
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\App.baml
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\ET\ET_Machines.g.cs
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\ET\ET_Properties.g.cs
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MainWindow.g.cs
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\App.g.cs
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner_MarkupCompile.cache
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.g.resources
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.Properties.Resources.resources
+C:\Users\Елена\Desktop\КСППР_выбор_оборудования\MachineDefiner\obj\Debug\MachineDefiner.csproj.GenerateResource.Cache

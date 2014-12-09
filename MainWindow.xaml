@@ -1,0 +1,125 @@
+﻿<RibbonWindow x:Class="MachineDefiner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        Icon="image.ico" Title="Программа для определения оборудования"
+        x:Name="RibbonWindow" WindowStartupLocation="CenterScreen"
+        Width="640" Height="480">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Ribbon x:Name="Ribbon" Title="" SelectionChanged="changeTab">
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu Visibility="Collapsed" >
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+
+            <RibbonTab Header="Главная">
+                <RibbonGroup Header="Действия">
+                    <RibbonButton  Click="LoadData" LargeImageSource="Images/poligraf.png" Label="Просмотр данных"></RibbonButton>
+                    <RibbonButton  Click="Define" LargeImageSource="Images/search.png" Label="Определить оборудование"></RibbonButton>
+                </RibbonGroup>
+            </RibbonTab>
+            <RibbonTab Header="Справочники">
+                <RibbonGroup>
+                    <RibbonButton Label="Станки" LargeImageSource="Images/poligraf.png" Click="showMachines"/>
+                    <RibbonButton Label="Характеристики" LargeImageSource="Images/config.png" Click="showCharacterictics"/>
+                    <RibbonButton  Click="SaveData" LargeImageSource="Images/save.png" Label="Сохранить"></RibbonButton>
+                </RibbonGroup>
+                <RibbonGroup Header="Действия">
+                    <RibbonButton Label="Добавить" LargeImageSource="Images/plus.png" Click="addItem"/>
+                    <RibbonButton Label="Изменить" LargeImageSource="Images/edit.png" Click="editItem"/>
+                    <RibbonButton Label="Удалить" LargeImageSource="Images/delete.png" Click="deleteItem"/>
+                </RibbonGroup>
+            </RibbonTab>
+        </Ribbon>
+        <Grid Grid.Row="1" Name="dataGrid" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="230"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ScrollViewer Grid.Column="0" >
+                <StackPanel Margin="5" Orientation="Vertical" >
+                <Label>Название</Label>
+                <TextBox Name="tb_Name" ></TextBox>
+                
+                <StackPanel Orientation="Vertical" Name="filter_char" >
+                </StackPanel>
+                
+                <StackPanel Orientation="Horizontal" Margin="5" >
+                    <Label>Умный поиск</Label>
+                    <CheckBox Name="ch_smartSearch" Margin="10,0,0,0" 
+                              HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <Button Margin="40,0,0,0" Height="30" Width="30"  Click="Define">
+                        <Image Source="/Images/reset.png" />
+                    </Button>
+                    <Button Margin="5,0,0,0" Height="30" Width="30"  Click="findItems">
+                        <Image Source="/Images/search.png" />
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+            </ScrollViewer>
+            <DataGrid Grid.Column="1" Name="mainDGMachine" AutoGenerateColumns="False">
+                <DataGrid.GroupStyle>
+                    <GroupStyle ContainerStyle="{StaticResource GroupHeaderStyle}">
+                        <GroupStyle.Panel>
+                            <ItemsPanelTemplate>
+                                <DataGridRowsPresenter/>
+                            </ItemsPanelTemplate>
+                        </GroupStyle.Panel>
+                    </GroupStyle>
+                </DataGrid.GroupStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Название оборудования" MinWidth="150" Width="*" Binding="{Binding Path=Name}"/>
+                    <DataGridTextColumn Header="Тип печати"  Width="*" MinWidth="100" Binding="{Binding Path=PrintType}"/>
+                    <DataGridTemplateColumn  Header="Общий балл">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock TextAlignment="Right" Text="{Binding Path=coefficientSumm}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+            </DataGrid>
+            <DataGrid  Grid.Column="1" Name="mainDGProperties" AutoGenerateColumns="False" Visibility="Collapsed">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="*" Header="Название" Binding="{Binding Path=Name}"/>
+
+                    <DataGridTextColumn Header="Тип данных" Binding="{Binding Path=ValueTypeName}"/>
+                    <DataGridTextColumn Header="Порядок" Binding="{Binding Path=OrderNumber}"/>
+
+                    <DataGridTextColumn Header="Список значений" Binding="{Binding Path=ValueItems}"/>
+
+                    <DataGridTemplateColumn Header="По умолчанию" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock TextAlignment="Right" Text="{Binding Path=DefaultValue}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn  Header="Коэффициент">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock TextAlignment="Center" Text="{Binding Path=Coefficient}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn  Header="Базовая">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock TextAlignment="Center" Text="{Binding Path=IsNecessaryUI}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+    </Grid>
+</RibbonWindow>

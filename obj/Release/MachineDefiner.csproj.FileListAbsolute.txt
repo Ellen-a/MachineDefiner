@@ -1,0 +1,17 @@
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Release\MachineDefiner.exe
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Release\MachineDefiner.exe.config
+E:\Для Лены\MachineDefiner\MachineDefiner\bin\Release\MachineDefiner.pdb
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MainWindow.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MainWindow.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\App.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner_MarkupCompile.cache
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner.g.resources
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner.Properties.Resources.resources
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner.csproj.GenerateResource.Cache
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner.exe
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\MachineDefiner.pdb
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\ET\ET_Machines.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\ET\ET_Properties.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\App.baml
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\ET\ET_Machines.g.cs
+E:\Для Лены\MachineDefiner\MachineDefiner\obj\Release\ET\ET_Properties.g.cs

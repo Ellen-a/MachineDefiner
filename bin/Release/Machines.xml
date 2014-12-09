@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Machine>
+    <Name>ABACUS, M&amp;R</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="14" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="11797" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="массовые" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Chameleon Duo Deck</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="12" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="12000" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>CHALLENGER II</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="10" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="58755" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>SIDEWINDER</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="6" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="15000" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>KRUZER, M&amp;R</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="12500" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="6" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>CHAMELEON, M&amp;R</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="44066" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="8" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="массовые" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>PRINTEX, AEROTERM</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A4" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="14204" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Alpha 8</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="75000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="8" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>SPORTSMAN EX</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="92246" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="8" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DIAMONDBACK L</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A3" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="42204" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="6" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>CHALLENGER III 55</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="43479" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="10" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>CHALLENGER III 70</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="47000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="12" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>CHALLENGER III 110</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="48179" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="14" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>SPORTSMAN</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="83000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="8" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DIAMONDBACK S</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="43000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="6" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DIAMONDBACK XL</Name>
+    <PrintType>Трафаретная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="45000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="8" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value="Трафаретная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="крупные" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="частично возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson SureColor SC-F2000</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="406" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="286000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>M&amp;R I-DOT</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="377590" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>FreeJET  330 TX</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="350000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>FreeJET  500 TX</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="364000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Azon TEX Pro</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="144568" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 2880" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DTX-400</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="113140" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Polyprint TexJet plus</Name>
+    <PrintType>Цифровая печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A1" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="247000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="натуральная" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Цифровая печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="высокая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson SureColor SC-F7000</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1626" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="55000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson SureColor SC-F6000</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1118" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="108992" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Papirus  BlackJET</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1830" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="59000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 1440" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson SureColor SC-T5000</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="914" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="33000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 2880" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson SureColor SC-T5000</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="610" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="31420" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 2880" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>Epson Stylus pro 9880</Name>
+    <PrintType>Сублимационная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1118" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="59654" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="синтетическая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="Белый" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Сублимационная печать" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value=" 2880" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value="низкая" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value="возможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value=" Невозможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DK-8 (малоформатный)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A5" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="16328" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DK-20 (плоскопечатный)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="34176" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DK-16 (плоскопечатный)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="25395" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>DC-16 (плоскопечатный)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A2" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="25395" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" малые" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>JP-14 (плоскопечатный)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="A3" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="8518" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>TitanJet RTX (каландровый)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1500" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="293287" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>TitanJet RTM-150 (каландровый)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="1500" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="231175" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value=" средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+  <Machine>
+    <Name>TitanJet серии GTM-24/44 (каландровый)</Name>
+    <PrintType>Трансферная печать</PrintType>
+    <Characteristic>
+      <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="914" />
+      <MachineCharactericticItem Id="56d0c9ec-e9d6-4ebc-a95b-f0f3602a295b" Name="Стоимость оборудования,грн" Value="107000" />
+      <MachineCharactericticItem Id="75d3e6c4-b532-4366-9652-d35e988a0ada" Name="Вид ткани" Value="любая" />
+      <MachineCharactericticItem Id="656404c9-ff21-4eab-9044-c1353a632149" Name="Цветность изображения" Value="полноцвет" />
+      <MachineCharactericticItem Id="b952485c-5fbb-4920-b30b-56490893db8d" Name="Цвет запечатываемого материала" Value="all" />
+      <MachineCharactericticItem Id="5f22b07d-bdbd-4249-a7e6-069c23490b22" Name="Способ печати" Value=" Трансферная печать" />
+      <MachineCharactericticItem Id="fb2d7fdf-7807-4b33-8d76-3380a6ba3100" Name="Скорость печати" Value=" средняя" />
+      <MachineCharactericticItem Id="e821b856-eebc-480a-84cf-2d89a0b903d0" Name="Габариты машины" Value="средние" />
+      <MachineCharactericticItem Id="2c31574e-29a5-4fa3-a57d-477c87b36858" Name="Возможность печати градиентов, фотографий" Value=" невозможна" />
+      <MachineCharactericticItem Id="4f162529-6a93-489a-9a59-4a49225ece12" Name="Возможность печати специальными красками" Value="Возможна" />
+      <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" флок или флекс" />
+      <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
+      <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
+      <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+    </Characteristic>
+  </Machine>
+</ArrayOfMachine>

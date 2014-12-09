@@ -1,0 +1,44 @@
+﻿<Window x:Class="MachineDefiner.ET.ET_Properties"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" ResizeMode="NoResize"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" WindowStartupLocation="CenterScreen"
+        Title="Работа с характеристикой" Height="450" Width="400" Loaded="onLoad" >
+    <Grid Name="mainGrid" Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Grid.Row="1" Style="{StaticResource TitleLabel}" Content="Название"/>
+        <Label Grid.Column="0" Grid.Row="2" Style="{StaticResource TitleLabel}" Content="Тип данных"/>
+        <Label Grid.Column="0" Grid.Row="3" Style="{StaticResource TitleLabel}" Content="Возм. значения"/>
+        <Label Grid.Column="0" Grid.Row="5" Style="{StaticResource TitleLabel}" Content="По умолчанию"/>
+        <Label Grid.Column="0" Grid.Row="6" Style="{StaticResource TitleLabel}" Content="Коэффициент"/>
+        <Label Grid.Column="0" Grid.Row="7" Style="{StaticResource TitleLabel}" Content="Базовая?"/>
+        <Label Grid.Column="0" Grid.Row="8" Style="{StaticResource TitleLabel}" Content="Порядок"/>
+        
+        <TextBox Grid.Column="1" Grid.Row="1" Style="{StaticResource InputText}" Text="{Binding Path=Name}"/>
+        <ComboBox Name="cb_ValueTypes" Grid.Column="1" Grid.Row="2"  DisplayMemberPath="Value" SelectedValuePath="Key"
+                  Style="{StaticResource simpleCombobox}"/>
+        <TextBox Grid.Column="0" VerticalContentAlignment="Top" Grid.Row="4" Grid.ColumnSpan="2" Height="80" TextWrapping="Wrap" 
+                 Style="{StaticResource InputText}" Text="{Binding Path=ValueItems}"/>
+        <TextBox Grid.Column="1" Grid.Row="5" Style="{StaticResource InputText}" Text="{Binding Path=DefaultValue}"/>
+        <TextBox Grid.Column="1" Grid.Row="6" Style="{StaticResource InputText}" Text="{Binding Path=Coefficient}"/>
+        <CheckBox Grid.Column="1" Grid.Row="7" Style="{StaticResource SimpleCheckBox}" IsChecked="{Binding Path=IsNecessary}"/>
+
+        <TextBox Grid.Column="1" Grid.Row="8" Style="{StaticResource InputText}" Text="{Binding Path=OrderNumber}"/>
+
+        <Button Grid.Column="0" Grid.Row="9" Width="100" Margin="5" HorizontalAlignment="Left" Content="Отмена" Click="bt_cancelAction"/>
+        <Button Grid.Column="1" Grid.Row="9" Width="100" Margin="5" HorizontalAlignment="Right" Content="Применить" Click="bt_applyAction"/>
+    </Grid>
+</Window>
