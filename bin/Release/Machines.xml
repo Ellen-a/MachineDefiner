@@ -18,6 +18,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="массовые" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -38,6 +39,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -58,6 +60,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -78,6 +81,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -98,6 +102,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -118,6 +123,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="массовые" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -138,6 +144,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -158,6 +165,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -178,6 +186,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -198,6 +207,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -218,6 +228,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -238,6 +249,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -258,6 +270,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -278,6 +291,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -298,6 +312,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -318,6 +333,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -338,6 +354,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -358,6 +375,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -378,6 +396,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -398,6 +417,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -418,6 +438,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -438,6 +459,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -458,6 +480,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value="краска" />
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -478,6 +501,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -498,6 +522,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -518,6 +543,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -538,6 +564,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -558,6 +585,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -578,6 +606,7 @@
       <MachineCharactericticItem Id="9366f621-6f2b-4776-a0bf-09e963d1d806" Name="Расходные материалы" Value=" сублимационная бумага" />
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -598,6 +627,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -618,6 +648,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -638,6 +669,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -658,6 +690,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -678,6 +711,7 @@
       <MachineCharactericticItem Id="f3379a14-c556-457b-8665-31a47ed8793b" Name="Широкоформат (шир. рулона, мм)" Value="0" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -698,6 +732,7 @@
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -718,6 +753,7 @@
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
   <Machine>
@@ -738,6 +774,7 @@
       <MachineCharactericticItem Id="e8d2f336-e0e1-402c-981a-64fb623a8ab5" Name="Формат запечатываемой области" Value="All" />
       <MachineCharactericticItem Id="3ce055f3-99ce-4444-836a-7058619e2d57" Name="Разрешение печати" Value="all" />
       <MachineCharactericticItem Id="e8b50be1-edb9-4793-b095-c2b10c865f41" Name="Периодичность заказов" Value="серийные" />
+      <MachineCharactericticItem Id="c0c5c61c-696f-428d-b194-9cdcbda16934" Name="Способ приобретения" Value="all" />
     </Characteristic>
   </Machine>
 </ArrayOfMachine>

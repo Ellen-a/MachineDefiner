@@ -5,7 +5,7 @@
     <Name>Цветность изображения</Name>
     <ValueType>ItList</ValueType>
     <Value>полноцвет</Value>
-    <OrderNumber>5</OrderNumber>
+    <OrderNumber>14</OrderNumber>
     <ValueItems>1;2;4;6;8;10;12;14;18;20;полноцвет</ValueItems>
     <Coefficient>4</Coefficient>
     <IsNecessary>true</IsNecessary>
@@ -29,7 +29,7 @@
     <Name>Формат запечатываемой области</Name>
     <ValueType>ItList</ValueType>
     <Value>A3</Value>
-    <OrderNumber>3</OrderNumber>
+    <OrderNumber>7</OrderNumber>
     <ValueItems>А0;A1;A2;A3;A4;A5;All</ValueItems>
     <Coefficient>10</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -49,7 +49,7 @@
     <Name>Вид ткани</Name>
     <ValueType>ItList</ValueType>
     <Value>любая</Value>
-    <OrderNumber>2</OrderNumber>
+    <OrderNumber>6</OrderNumber>
     <ValueItems>синтетическая;натуральная;любая</ValueItems>
     <Coefficient>11</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -65,7 +65,7 @@
     <Name>Стоимость оборудования,грн</Name>
     <ValueType>ItInt</ValueType>
     <Value>75000</Value>
-    <OrderNumber>2</OrderNumber>
+    <OrderNumber>1</OrderNumber>
     <Coefficient>10</Coefficient>
     <IsNecessary>true</IsNecessary>
     <DefaultValue>1000</DefaultValue>
@@ -76,7 +76,7 @@
     <Name>Цвет запечатываемого материала</Name>
     <ValueType>ItList</ValueType>
     <Value>all</Value>
-    <OrderNumber>5</OrderNumber>
+    <OrderNumber>10</OrderNumber>
     <ValueItems>белый;цветной;</ValueItems>
     <Coefficient>9</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -92,7 +92,7 @@
     <Name>Широкоформат (шир. рулона, мм)</Name>
     <ValueType>ItList</ValueType>
     <Value>914</Value>
-    <OrderNumber>4</OrderNumber>
+    <OrderNumber>8</OrderNumber>
     <ValueItems>406;610;914;1118;1500;1626;1830</ValueItems>
     <Coefficient>10</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -111,7 +111,7 @@
     <Id>5f22b07d-bdbd-4249-a7e6-069c23490b22</Id>
     <Name>Способ печати</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>1</OrderNumber>
+    <OrderNumber>2</OrderNumber>
     <ValueItems>Трафаретная печать;Цифровая печать;Сублимационная печать;Трансферная печать;</ValueItems>
     <Coefficient>12</Coefficient>
     <IsNecessary>true</IsNecessary>
@@ -128,7 +128,7 @@
     <Id>3ce055f3-99ce-4444-836a-7058619e2d57</Id>
     <Name>Разрешение печати</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>6</OrderNumber>
+    <OrderNumber>11</OrderNumber>
     <ValueItems>780; 1200; 1440; 2880;all</ValueItems>
     <Coefficient>8</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -145,7 +145,7 @@
     <Id>fb2d7fdf-7807-4b33-8d76-3380a6ba3100</Id>
     <Name>Скорость печати</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>7</OrderNumber>
+    <OrderNumber>9</OrderNumber>
     <ValueItems>высокая;средняя;низкая</ValueItems>
     <Coefficient>7</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -160,7 +160,7 @@
     <Id>e821b856-eebc-480a-84cf-2d89a0b903d0</Id>
     <Name>Габариты машины</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>8</OrderNumber>
+    <OrderNumber>12</OrderNumber>
     <ValueItems>крупные; средние; малые</ValueItems>
     <Coefficient>6</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -175,7 +175,7 @@
     <Id>2c31574e-29a5-4fa3-a57d-477c87b36858</Id>
     <Name>Возможность печати градиентов, фотографий</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>9</OrderNumber>
+    <OrderNumber>15</OrderNumber>
     <ValueItems>частично возможна; возможна; невозможна</ValueItems>
     <Coefficient>5</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -190,7 +190,7 @@
     <Id>4f162529-6a93-489a-9a59-4a49225ece12</Id>
     <Name>Возможность печати специальными красками</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>10</OrderNumber>
+    <OrderNumber>13</OrderNumber>
     <ValueItems>Возможна; Невозможна</ValueItems>
     <Coefficient>4</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -205,7 +205,7 @@
     <Name>Расходные материалы</Name>
     <ValueType>ItList</ValueType>
     <Value> флок или флекс</Value>
-    <OrderNumber>11</OrderNumber>
+    <OrderNumber>16</OrderNumber>
     <ValueItems>краска; сублимационная бумага; флок или флекс</ValueItems>
     <Coefficient>3</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -221,7 +221,7 @@
     <Name>Периодичность заказов</Name>
     <ValueType>ItList</ValueType>
     <Value>массовые</Value>
-    <OrderNumber>12</OrderNumber>
+    <OrderNumber>5</OrderNumber>
     <ValueItems>массовые;серийные;единичные</ValueItems>
     <Coefficient>5</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -236,7 +236,7 @@
     <Id>c0c5c61c-696f-428d-b194-9cdcbda16934</Id>
     <Name>Способ приобретения</Name>
     <ValueType>ItList</ValueType>
-    <OrderNumber>13</OrderNumber>
+    <OrderNumber>3</OrderNumber>
     <ValueItems>за наличный расчет;в аренду;в кредит;all</ValueItems>
     <Coefficient>2</Coefficient>
     <IsNecessary>false</IsNecessary>
@@ -246,6 +246,21 @@
       <string>в аренду</string>
       <string>в кредит</string>
       <string>all</string>
+    </ValueItemsList>
+  </Characteristic>
+  <Characteristic>
+    <Id>383ba8e0-ec0d-4b24-96aa-795f2118cc56</Id>
+    <Name>Степень автоматизации на предприятии</Name>
+    <ValueType>ItList</ValueType>
+    <OrderNumber>4</OrderNumber>
+    <ValueItems>Полностью автоматизировано; Частично автоматизировано; Неавтоматизировано</ValueItems>
+    <Coefficient>0</Coefficient>
+    <IsNecessary>true</IsNecessary>
+    <DefaultValue>Неавтоматизировано</DefaultValue>
+    <ValueItemsList>
+      <string>Полностью автоматизировано</string>
+      <string> Частично автоматизировано</string>
+      <string> Неавтоматизировано</string>
     </ValueItemsList>
   </Characteristic>
 </ArrayOfCharacteristic>
